@@ -1,8 +1,5 @@
 <h1 align="left" id="zulkarnaev-title">:wave: Привет всем! Меня зовут Зулкарнаев Ахмед</h1>
-<h3 align="left">Занимаюсь Backend разработкой на Python.</h3>
-<a href="#zulkarnaev-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="GitHub-статистика" align="right" />
-</a>
+<h3 align="left">Занимаюсь backend разработкой на Python.</h3>
 
 - :computer: &nbsp;На данный момент работаю над **проектом [в области разработки backend](https://github.com/AhmedZulkarnaev/MedStat_Solutions_team1)**
 - :seedling: &nbsp;Углубляю свои навыки  **в алгоритмическом программировании**
