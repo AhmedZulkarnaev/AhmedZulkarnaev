@@ -4,8 +4,8 @@
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="GitHub-статистика" align="right" />
 </a>
 
-- :computer: &nbsp;На данный момент работаю над **проектом в области разработки Backend**
-- :seedling: &nbsp;Углубляю свои навыки в **в алгоритмическом программировании**
+- :computer: &nbsp;На данный момент работаю над **проектом [в области разработки backend](https://github.com/AhmedZulkarnaev/MedStat_Solutions_team1)**
+- :seedling: &nbsp;Углубляю свои навыки  **в алгоритмическом программировании**
 - :speech_balloon: &nbsp;Люблю обсуждать **Django**, **FastApi**, и другие **технологии Python**
 - :book: &nbsp;Узнайте больше о моих проектах на моем **[GitHub](https://github.com/AhmedZulkarnaev)**
 - :mailbox: &nbsp;Если у вас есть вопросы, пишите в **[Issues](https://github.com/AhmedZulkarnaev/issues)**
